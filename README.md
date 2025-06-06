@@ -1,6 +1,6 @@
 # 🔧 RISC-V Single-Cycle Datapath (RV32I) – Logisim Implementation
 
-This project implements a **single-cycle datapath** for the **RV32I subset** of the **RISC-V Instruction Set Architecture** using **Logisim**. The design covers the complete execution flow of RISC-V instructions and includes essential datapath components modeled visually for educational and experimental purposes.
+This project implements a **single-cycle datapath** for the **RV32I subset** of the **RISC-V Instruction Set Architecture** using **Logisim**. The design covers the complete execution flow of RISC-V instructions and includes essential datapath components modeled visually for learning purpose.
 
 ---
 
